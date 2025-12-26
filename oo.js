@@ -16,7 +16,7 @@ document.getElementById("user").innerHTML = user.name + "<br>" + user.age + "歲
 
 //alert(user.name + user.age);
 
-var source={
+var score={
     chinese:100,
     english:99,
     math:98,
